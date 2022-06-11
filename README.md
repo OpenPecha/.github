@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Template</h3>
+<h3 align="center">Organization Landing Page</h3>
 
 
 <!-- Replace the title of the repository -->
@@ -19,7 +19,7 @@
 
 ## Description
 
-The template repo to be used across all repos.
+This repo is for managing the organization README.md
 
 <!-- This section provides a high-level overview for the repo -->
 
