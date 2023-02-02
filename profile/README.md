@@ -7,3 +7,5 @@
 [🎬 Action Roadmap](https://github.com/orgs/OpenPecha/projects/11/views/1)
 
 [🏗️ FY23 Workplan](https://github.com/orgs/OpenPecha/projects/21/views/1)
+
+[OpenPecha wiki](https://wiki.openpecha.org)
