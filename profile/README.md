@@ -1,6 +1,6 @@
 ## Welcome to the OpenPecha Community 
 
-[🧭RFX templates](https://github.com/OpenPecha/Requests/issues)
+[🧭RFXs](https://github.com/OpenPecha/Requests/issues)
 
 [Action Item template](https://github.com/OpenPecha/Roadmap/issues/new?assignees=&labels=&template=action-item-template.md&title=)
 
