@@ -2,7 +2,7 @@
 
 About OpenPecha:
 
-[Website](https://openpecha.org) | [🏗️ FY23 Workplan](https://github.com/orgs/OpenPecha/projects/21/views/1) | [🎬 Action Roadmap](https://github.com/orgs/OpenPecha/projects/11/views/1) | [Discord](https://discord.com/invite/7GFpPFSTeA)
+[Website](https://openpecha.org) | [🏗️ FY23 Workplan](https://github.com/orgs/OpenPecha/projects/21/views/1) | [Discord](https://discord.com/invite/7GFpPFSTeA)
 
 For developers:
 
