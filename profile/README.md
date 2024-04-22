@@ -2,7 +2,7 @@
 
 About OpenPecha:
 
-[Public Roadmap 🧭](https://github.com/orgs/OpenPecha/projects/12) | [Docs](https://openpecha.org) | [Discord](https://discord.com/invite/7GFpPFSTeA)
+[Public Roadmap 🧭](https://github.com/orgs/OpenPecha/projects) | [Docs](https://openpecha.org) | [Discord](https://discord.com/invite/7GFpPFSTeA)
 
 For developers:
 
