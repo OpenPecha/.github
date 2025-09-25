@@ -7,3 +7,11 @@ About OpenPecha:
 For developers:
 
 [🧭 RFXs](https://github.com/OpenPecha/Requests/issues) | [📂 New repo template (Python)](https://github.com/OpenPecha/openpecha-project-template) | [📂 New repo template (non-Python)](https://github.com/OpenPecha/new-repo-template) | [📖 Developer guidelines](https://wiki.openpecha.org)
+
+
+
+User feedbacks
+
+[Sherab feedbacks ](https://github.com/OpenPecha/sherab-feedbacks/issues) |
+[Pecha AI studio](https://github.com/OpenPecha/pecha-ai-studio-feedbacks/issues) |
+[Webuddhist](https://github.com/OpenPecha/webuddhist-feedbacks/issues) 
