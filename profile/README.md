@@ -12,6 +12,6 @@ For developers:
 
 User feedbacks
 
-[Sherab feedbacks ](https://github.com/OpenPecha/sherab-feedbacks/issues) |
+[Sherab](https://github.com/OpenPecha/sherab-feedbacks/issues) |
 [Pecha AI studio](https://github.com/OpenPecha/pecha-ai-studio-feedbacks/issues) |
 [Webuddhist](https://github.com/OpenPecha/webuddhist-feedbacks/issues) 
