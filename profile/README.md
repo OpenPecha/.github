@@ -10,8 +10,9 @@ For developers:
 
 
 
-User feedbacks
+Community feedbacks
 
 [Sherab](https://github.com/OpenPecha/sherab-feedbacks/issues) |
 [Pecha AI studio](https://github.com/OpenPecha/pecha-ai-studio-feedbacks/issues) |
-[Webuddhist](https://github.com/OpenPecha/webuddhist-feedbacks/issues) 
+[Webuddhist](https://github.com/OpenPecha/webuddhist-feedbacks/issues) |
+[Webuddhist App](https://github.com/OpenPecha/webuddhist-app-feedback/issues)
