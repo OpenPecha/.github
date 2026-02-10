@@ -15,5 +15,5 @@ Community feedbacks
 [Sherab](https://github.com/OpenPecha/sherab-feedbacks/issues) |
 [Pecha AI studio](https://github.com/OpenPecha/pecha-ai-studio-feedbacks/issues) |
 [Webuddhist](https://github.com/OpenPecha/webuddhist-feedbacks/issues) |
-[Webuddhist App](https://github.com/OpenPecha/webuddhist-app-feedback/issues)
-[pecha backend](https://github.com/OpenPecha/openpecha-backend-feedback/issues)
+[Webuddhist App](https://github.com/OpenPecha/webuddhist-app-feedback/issues)  |
+[Pecha backend](https://github.com/OpenPecha/openpecha-backend-feedback/issues)
